@@ -3,7 +3,7 @@
 # Activitat 6 - Col·laboració GitHub
 
 **Responsable:** Dalton Pezantes  
-**Col·laborador:** Nombre completo de tu compañero
+**Col·laborador:** David Calatayud
 
 ## Descripció
 Repositori privat creat per treballar en equip i gestionar modificacions mitjançant *Issues*, *Branches*, *Commits* i *Pull Requests*.
