@@ -7,3 +7,6 @@
 
 ## Descripció
 Repositori privat creat per treballar en equip i gestionar modificacions mitjançant *Issues*, *Branches*, *Commits* i *Pull Requests*.
+
+
+Acto del compañero de dalton pezantes
